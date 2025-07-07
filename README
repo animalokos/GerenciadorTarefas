@@ -1,0 +1,13 @@
+Projeto Java
+
+Gerenciador de tarefas
+Nivel: Intermediário
+Projeto: Aplicação console para criar, listar e remover tarefas.
+
+Requisitos:
+- Uso de classes e objetos.
+- Manipulação de listas.
+- Leitura e escrita de dados em arquivo texto.
+- Tratamento de exceções.
+
+Foco: orientação a objetos, collections, manipulação de arquivos.
